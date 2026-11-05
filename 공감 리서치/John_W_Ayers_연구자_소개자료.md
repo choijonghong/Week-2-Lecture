@@ -124,5 +124,3 @@
 - Ayers JW et al. (2024). *Regulate Artificial Intelligence in Health Care by Prioritizing Patient Outcomes.* https://doi.org/10.1001/jama.2024.0549
 
 ---
-
-**강의 핵심 메시지:** AI의 공감적 언어 생성 능력과 실제 감정 경험은 구별해야 한다. 중요한 것은 공감의 정의를 명확히 하고, 타당하고 신뢰할 수 있는 평가 기준을 만드는 일이다.
